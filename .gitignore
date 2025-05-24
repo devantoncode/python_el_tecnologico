@@ -1,6 +1,8 @@
 course-info.yaml
 .idea/
 .idea
+.coursecreator/
+.coursecreator
 
 # __init__.py
 # task.md
